@@ -1,2 +1,2 @@
 - 👋 Hey, I’m @cris-maillo !!
-- 🌱 I’m currently learning Full Stack Web Development and building my personal website
+- 🌱 Currently busy doing a MSc in Comp Sci and tinkering around.
